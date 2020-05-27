@@ -1,11 +1,15 @@
+<!DOCTYPE html>
 <html>
 
-<head title="PHP"></head>
+<head >
+    <meta charset="utf-8">
+    <title>Закладки</title>
+</head>
 
 <body>
     <?php
         //phpinfo();
-        echo"Hi"</br>;
+        echo"Hi""</br>";
         echo "First site" ;
 
     ?>
