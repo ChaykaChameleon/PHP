@@ -1,12 +1,8 @@
-<!DOCTYPE html>
 <html>
-
   <body>
 
   <?php include 'header.php'; ?>
 
-  <p>Some text.</p>
-  <p>Some text.</p>
+  <p>This is a paragraph</p>
   </body>
-  
 </html>
