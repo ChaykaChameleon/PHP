@@ -6,13 +6,12 @@
     <title>Закладки</title>
 </head>
 
-<body>
-    <?php
-        //phpinfo();
-        echo"Hi""</br>";
-        echo "First site" ;
+  <body>
 
-    ?>
-</body>
+  <?php include 'header.php'; ?>
 
+  <p>Some text.</p>
+  <p>Some text.</p>
+  </body>
+  
 </html>
