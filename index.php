@@ -5,7 +5,7 @@
 <body>
     <?php
         //phpinfo();
-        echo"Hi";
+        echo"Hi"</br>;
         echo "First site" ;
 
     ?>
