@@ -1,6 +1,6 @@
 <?php
         //phpinfo();
            echo"Hi";
-echo First site ;
+echo "First site" ;
 
     ?>
