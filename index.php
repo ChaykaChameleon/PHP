@@ -1,39 +1,36 @@
 <!DOCTYPE html>
 <html lang="ru">
-  <head>
+
+<head>
     <meta charset="utf-8">
-    <title>Инструктор Кекс</title>
+    <title>First</title>
     <link rel="stylesheet" href="style.css">
-  </head>
-  <body>
-    <div class="container">
-      <header class="site-header">
-        <h1>Инструктор Кекс</h1>
-        <p>Обучение начинающих котят</p>
-      </header>
+    <link href="https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap" rel="stylesheet">
+     </head>
 
-      <section class="features">
-        <h2>Почему я?</h2>
-        <p>Я сам был котёнком, и вот я здесь</p>
-        <p>Хозяин натренирован на 100%</p>
-        <p>Профессиональный кот уже более 5 лет</p>
-      </section>
-
-      <section class="skills">
-        <h2>Чему вы научитесь?</h2>
-        <ul class="skills-list">
-          <li>таскать еду из хозяйской тарелки</li>
-          <li>придавать мебели винтажный стиль</li>
-          <li>открывать дверь и не входить</li>
-          <li>будить хозяина ночью</li>
-          <li>разбрасывать шерсть по квартире</li>
-        </ul>
-      </section>
-
-      <footer class="site-footer">
-        <p>© Кекс, 2018</p>
-        <p>Контактов нет, я сам вас найду</p>
-      </footer>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="heder_inner">
+                <div class="header_logo">Chayka</div>
+                <nav class="nav"> 
+                <a class="nav_link" href="">About me</a> 
+                <a class="nav_link" href="">Service</a> 
+                <a class="nav_link" href="">Blog</a> 
+                <a class="nav_link" href="">Work</a> 
+                <a class="nav_link" href="">Contack</a> </nav>
+            </div>
+        </div>
+    </header>
+    <div class="intro">
+        <div class="container"> 
+            <div class="intro_inner">
+            <!--<h2 class="intro_suptitle">*first</h2>-->
+            <h1 class="intro_title">Welcome to my syte</h1>
+            </div>
+        </div>
     </div>
-  </body>
+</body>
+
 </html>
